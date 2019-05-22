@@ -14,3 +14,4 @@ all: $(OBJ)
 
 clean:
 	rm -f $(PRG) *~ *.o a.out
+ememem
